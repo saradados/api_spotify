@@ -1,7 +1,3 @@
-# api_spotify
-Aqui está um exemplo de um README para um projeto GitHub que utiliza a API do Spotify. Esse template foca em como configurar o projeto, autenticar-se na API e fazer requisições básicas.
-
----
 
 # Spotify API Project
 
